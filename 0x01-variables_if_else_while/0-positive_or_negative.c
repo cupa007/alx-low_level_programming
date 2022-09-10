@@ -4,7 +4,7 @@
 /**
  * main-prgram entry point.
  * Return:0-no error, non zero value if error.
- */
+ **/
 int main(void)
 {
 	int n;
