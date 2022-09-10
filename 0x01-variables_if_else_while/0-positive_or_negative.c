@@ -1,6 +1,6 @@
-include <stdio.h>
-include <stdlib>
-include <time.h>
+#include <stdio.h>
+#include <stdlib>
+#include <time.h>
 /**
  * main-prgram entry point.
  * Return:0-no error, non zero value if error.
