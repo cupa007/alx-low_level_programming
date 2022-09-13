@@ -1,1 +1,0 @@
-fuctions of nested loops
