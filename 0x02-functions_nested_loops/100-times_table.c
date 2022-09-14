@@ -4,9 +4,11 @@
  * print_time_table - prints times table of n
  *
  * @n: takes number input
+ *
+ * Return: no return
  */
 
-void print_times_table(int n) /* print_times_table */
+void print_times_table(int n)
 {
 	int prod, mult, num;
 
