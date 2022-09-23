@@ -1,7 +1,4 @@
 #include <stdio.h>
-/**
- * function
- */
 
 int main(void)
 {
