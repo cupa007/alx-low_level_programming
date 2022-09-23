@@ -1,5 +1,7 @@
-#include "main.h"
 #include <stdio.h>
+/**
+ * Return: 0 no error
+ */
 
 int main(void)
 {
